@@ -8,11 +8,11 @@ During the times when no cars are at either end, the flag person will fall aslee
 This simulation ensures that deadlock will not occur. A deadlock could either be that the flag person does not allow traffic through from either side, or let’s traffic through from both sides causing an accident.
 
 ## Team members and contributions
-Team member: 
+Team member: Mohd Yasif Choudhary
 - Contributions: producer functions
 - Percentage of contributions: 50%
 
-Team member:
+Team member: Nitesh Singh
 - Contributions: consumer functions
 - Percentage of contributions: 50%
 
